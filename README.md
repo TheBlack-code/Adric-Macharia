@@ -1,5 +1,5 @@
 # ➡️ Adric Macharia
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**Cyber-Security Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm Adric I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
 skilled in Collaboration, Troubleshooting, Auditing, Documentation, RiskAssessment, 
@@ -11,9 +11,10 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more 
    </p>
 ---
 
-# 📜 Certifications
+### 📜 Certifications
 
 ⤷ Microsoft 365 Certified: Security Administrator Associate
+</p>
 ---
 
 ### 🧰 Languages and Tools
