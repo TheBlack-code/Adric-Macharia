@@ -13,13 +13,21 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 </p>
 
 
+#
+
 ### 📜 Certifications
 
+<!-- BEGIN Projects -->
 ⤷ Microsoft 365 Certified: Security Administrator Associate✅</p>
 ⤷ CompTIA Security Plus ⚠️</p>
 ⤷CompTIA Cybersecurity Analyst (CySA+) ⚠️</p>
 ⤷Certified Information Systems Auditor (CISA) ⚠️</p>
 </p>
+<!-- END Projects -->
+
+
+
+#
 
 ### 🧰 Languages and Tools
 
