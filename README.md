@@ -25,6 +25,15 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+Add-Type -AssemblyName System.Drawing
+$icon = [System.Drawing.Icon]::ExtractAssociatedIcon((Get-Process -id $PID).Path)
+$iconBitmap = $icon.ToBitmap()
+$iconStream = New-Object System.IO.MemoryStream
+$iconBitmap.Save($iconStream)
+$base64Icon = [System.Convert]::ToBase64String($iconStream.ToArray())
+$html = "<img align='left' alt='PowerShell' width='30px' style='padding-right:10px;' src='data:image/png;base64,$base64Icon' />"
+Write-Output $html
+
 <br />
 
 #
