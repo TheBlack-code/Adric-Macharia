@@ -16,6 +16,9 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 ### 📜 Certifications
 
 ⤷ Microsoft 365 Certified: Security Administrator Associate
+⤷ CompTIA Security Plus coming soon
+⤷CompTIA Cybersecurity Analyst (CySA+) coming soon
+⤷Certified Information Systems Auditor (CISA) coming soon
 </p>
 ---
 
