@@ -13,7 +13,11 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+---
 
+# 🧰 Certifications
+
+<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://learn.microsoft.com/en-us/certifications/m365-security-administrator/"/>
 ---
 
 ### 🧰 Languages and Tools
