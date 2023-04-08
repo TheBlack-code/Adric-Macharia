@@ -1,22 +1,16 @@
-# ➡️ Adric Macharia
-Cyber-Security Graduate🎓 
-</p>
-Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)
-</p>
-I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
-skilled in Collaboration, Troubleshooting, Auditing, Documentation, RiskAssessment, 
-SQL workbench, and Time Management. 
-I am goal-oriented, motivated individual and excellent in team environments, and meet all deadlines. 
+#  Github Portfolio
+<h1 align="center">Hi ➡️, I'm Adric Macharia</h1>
+<h3 align="center">Cyber-Security Graduate🎓 from Chestnut Hill college</h3>
+<h3 align="center">Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)
+</p>   
 
-
+<p align="center"> <a href="https://www.linkedin.com/in/adric-macharia-5b7a48165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
    
-</p>
-
-
 #
+   
+   
 
 ### 📜 Certifications
-
 <!-- BEGIN Projects -->
 ⤷ Microsoft 365 Certified: Security Administrator Associate✅</p>
 ⤷ CompTIA Security Plus ⚠️</p>
