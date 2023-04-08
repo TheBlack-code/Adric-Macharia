@@ -1,10 +1,29 @@
 #  Github Portfolio
 <h1 align="center">Hi ➡️, I'm Adric Macharia</h1>
-<h3 align="center">Cyber-Security Graduate🎓 from Chestnut Hill college</h3>
+<h3 align="center">Cyber-Security Graduate from Chestnut Hill college</h3>
 <h3 align="center">Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)
 </p>   
 
 <p align="center"> <a href="https://www.linkedin.com/in/adric-macharia-5b7a48165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+
+
+#
+   
+   
+
+<p align="left"> 
+- 🔭 I’m currently working on **Buckoid Android App**
+<p align="left"> 
+- 🌱 I’m currently learning **DevOps**
+<p align="left"> 
+- 💬 Ask me about **Android , MEARN**
+<p align="left"> 
+- 📫 How to reach me **rishavchanda0@gmail.com**
+<p align="left"> 
+- ⚡ Fun fact **I am Funny**
+
+
+
    
 #
    
