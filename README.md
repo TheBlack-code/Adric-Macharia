@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 # 📜 Certifications
 
-• Microsoft 365 Certified: Security Administrator Associate
+⤷ Microsoft 365 Certified: Security Administrator Associate
 ---
 
 ### 🧰 Languages and Tools
