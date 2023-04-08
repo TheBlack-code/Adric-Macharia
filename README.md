@@ -1,5 +1,5 @@
 # ➡️ Adric Macharia
-Cyber-Security Graduate 🎓
+🎓Cyber-Security Graduate 🎓
 </p>
 Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)`**
 </p>
