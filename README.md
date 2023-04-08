@@ -1,7 +1,7 @@
 #  Github Portfolio
 <h1 align="center">Hi ➡️, I'm Adric Macharia</h1>
 <h3 align="center">Cyber-Security Graduate from Chestnut Hill college</h3>
-<h3 align="center">Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)
+<h3 align="center">Aiming for (IT auditor/Cybersecurity Analyst/SOC Analyst)
 </p>   
 
 <p align="center"> <a href="https://www.linkedin.com/in/adric-macharia-5b7a48165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
