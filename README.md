@@ -1,6 +1,7 @@
 # ➡️ Adric Macharia
 **Cyber-Security Graduate 
-Aiming for (Analyst/IT auditor/SOC Analyst)`**
+</p>
+Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)`**
 
 I'm Adric I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
 skilled in Collaboration, Troubleshooting, Auditing, Documentation, RiskAssessment, 
