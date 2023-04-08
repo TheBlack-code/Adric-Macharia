@@ -15,9 +15,9 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 ---
 
-# 🧰 Certifications
+# 📜 Certifications
 
-Microsoft 365 Certified: Security Administrator Associate
+width="30px" style="padding-right:10px Microsoft 365 Certified: Security Administrator Associate
 ---
 
 ### 🧰 Languages and Tools
