@@ -1,11 +1,12 @@
 # ➡️ Adric Macharia
-**Cyber-Security Craftsman (Developer/Filmmaker/Creator)`**
+**Cyber-Security Graduate 
+Aiming for (Analyst/IT auditor/SOC Analyst)`**
 
 I'm Adric I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
 skilled in Collaboration, Troubleshooting, Auditing, Documentation, RiskAssessment, 
 SQL workbench, and Time Management. 
 I am goal-oriented, motivated individual and excellent in team environments, and meet all deadlines. 
-I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I publish that content on my YouTube channel "[ForrestKnight][youtube]" 
 
    
    </p>
