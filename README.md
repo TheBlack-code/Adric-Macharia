@@ -11,7 +11,7 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 
    
    </p>
----
+---------------------
 
 ### 📜 Certifications
 
@@ -20,7 +20,7 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 ⤷CompTIA Cybersecurity Analyst (CySA+) coming soon</p>
 ⤷Certified Information Systems Auditor (CISA) coming soon</p>
 </p>
----
+---------------------
 
 ### 🧰 Languages and Tools
 
