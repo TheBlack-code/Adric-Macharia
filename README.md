@@ -3,7 +3,7 @@
 </p>
 Aiming for (Cybersecurity Analyst/IT auditor/SOC Analyst)`**
 </p>
-I'm Adric I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
+I am an upcoming Cyber Security graduate with three years of entry level IT experience, 
 skilled in Collaboration, Troubleshooting, Auditing, Documentation, RiskAssessment, 
 SQL workbench, and Time Management. 
 I am goal-oriented, motivated individual and excellent in team environments, and meet all deadlines. 
