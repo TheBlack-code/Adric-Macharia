@@ -12,15 +12,15 @@
    
 
 <p align="left"> 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on ****
 <p align="left"> 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning ****
 <p align="left"> 
 - 💬 Ask me about **Android , MEARN**
 <p align="left"> 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **mm.adric@outlook.com**
 <p align="left"> 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Self-studing**
 
 
 
