@@ -12,15 +12,11 @@
    
 
 <p align="left"> 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on []
 <p align="left"> 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently [self-learning ]
 <p align="left"> 
-- 💬 Ask me about **Android , MEARN**
-<p align="left"> 
-- 📫 How to reach me **mm.adric@outlook.com**
-<p align="left"> 
-- ⚡ Fun fact **Self-studing**
+- 📫 How to reach me [mm.adric@outlook.com]
 
 
 
