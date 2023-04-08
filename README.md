@@ -11,8 +11,7 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 
    
 </p>
----------------------------------------------------------------------------------------------------
-
+------
 ### 📜 Certifications
 
 ⤷ Microsoft 365 Certified: Security Administrator Associate✅</p>
@@ -20,8 +19,7 @@ I publish that content on my YouTube channel "[ForrestKnight][youtube]"
 ⤷CompTIA Cybersecurity Analyst (CySA+) ⚠️</p>
 ⤷Certified Information Systems Auditor (CISA) ⚠️</p>
 </p>
----------------------------------------------------------------------------------------------------
-
+-------
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
