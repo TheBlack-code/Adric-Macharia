@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 # 🧰 Certifications
 
-<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://learn.microsoft.com/en-us/certifications/m365-security-administrator/"/>
+<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="Microsoft 365 Certified: Security Administrator Associate/"/>
 ---
 
 ### 🧰 Languages and Tools
