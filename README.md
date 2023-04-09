@@ -78,7 +78,7 @@ KALI
 #
 
 <details>
- <summary><h3>👨‍💻 Macharia's Journey</h3></summary>
+ <summary><h3>👨‍💻 Macharia's Journey</h3></summary> (read)
    As a Cyber-Security Graduate from Chestnut Hill College, I have developed a keen interest in the constantly-evolving digital world. My educational background has provided me with a strong foundation in topics such as cryptography, network security, and ethical hacking, which I have been able to apply to real-world scenarios through various projects and internships.
 </p>
 My journey in Cyber-Security began as a curious student, eager to learn about the intricacies of technology. As I delved deeper into this field, I realized that I was particularly fascinated by code, KALI, Linux, and MySQL, which motivated me to acquire in-depth knowledge of these areas. While pursuing my studies, I also developed an interest in iOS development and taught myself how to code with the goal of building my own app.
