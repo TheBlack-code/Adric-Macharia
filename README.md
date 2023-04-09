@@ -60,14 +60,14 @@ JavaScript</p>
 ### 📺 Latest Projects
 #
 <!-- BEGIN Projects -->
+⤷ [CyberSploit 1 - Report (1).zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184752/CyberSploit.1.-.Report.1.zip)
+#
+⤷ [_Python Project.zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184744/_Python.Project.zip)</p>
+#
 ⤷ [annotated-SurveyMonkey.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184719/annotated-SurveyMonkey.sql.pdf)</p>
 ⤷ [annotated-Roles.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184729/annotated-Roles.sql.pdf)</p>
 ⤷ [annotated-Privileges-1.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184730/annotated-Privileges-1.sql.pdf)</p>
 ⤷ [annotated-Authentication.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184731/annotated-Authentication.sql.pdf)</p>
-#
-⤷ [_Python Project.zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184744/_Python.Project.zip)</p>
-#
-⤷ [CyberSploit 1 - Report (1).zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184752/CyberSploit.1.-.Report.1.zip)
 
 
 <!-- END Projects -->
