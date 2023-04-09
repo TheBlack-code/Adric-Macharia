@@ -1,6 +1,6 @@
 #  <h1 align="center">Github Portfolio
 ![wallpaper-preview](https://user-images.githubusercontent.com/128648409/230748335-0bda93e6-be7f-488a-9196-7ad9d749241b.jpg)
-<h1 align="center">Hi ➡️, I'm Adric Macharia</h1>
+<h1 align="center">Hi, I'm Adric Macharia</h1>
 <h3 align="center">Cyber-Security Graduate from Chestnut Hill college</h3>
 <h3 align="center">Aiming for (IT Auditor/ SOC Analyst / Cyber-Analyst)
 </p>   
