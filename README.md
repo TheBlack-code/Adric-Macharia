@@ -87,7 +87,7 @@ However, as I continued to learn more about Cyber-Security, I realized that my t
 </p>
 As someone who is passionate about self-learning, I have also been able to pursue my interests in the field of Internet of Things (IoT) while working in Cyber-Security. I am constantly seeking out new resources and opportunities to expand my knowledge in this area, as I believe that a strong foundation in emerging technologies will be essential for success in the Cyber-Security field.
 </p>
-Overall, my journey in Cyber-Security has been an exciting and rewarding one. I am grateful for the opportunities that I have had thus far, and I am eager to continue learning and growing as a Cyber-Security professional.
+Overall, my journey in Cyber-Security has been an exciting and rewarding one. I am grateful for the opportunities that I have had thus far, and I am eager to continue learning and growing as a Cyber-Security Padawan.
 
 
 
