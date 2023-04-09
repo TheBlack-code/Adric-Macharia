@@ -56,6 +56,8 @@ JavaScript</p>
 MySQL</p>
 <img align="left" alt="b" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/128648409/230753486-a7dbc4fe-4238-4556-af41-10f523aa1b4e.jpg" />
 KALI</p>
+<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/128648409/230753845-743b3410-5197-422d-8136-ac5cfa03951d.jpg" />
+AccessData FTK imager</p>
 <img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/128648409/230753712-93338a5a-d526-4d7f-8094-9736c320acae.jpg" />
 AccessData Password Recovery Toolkit (PRTK)</p>
 
