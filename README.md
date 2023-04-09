@@ -54,8 +54,9 @@ Java</p>
 JavaScript</p>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 MySQL</p>
-<img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" />
-Kali</p>
+<img align="left" alt="b" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/128648409/230753486-a7dbc4fe-4238-4556-af41-10f523aa1b4e.jpg" />
+KALI</p>
+
 <br />
 
 #
