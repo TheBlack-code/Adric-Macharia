@@ -61,10 +61,10 @@ JavaScript</p>
 ### 📺 Latest Projects
 
 <!-- BEGIN Projects -->
-⤷ [annotated-SurveyMonkey.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184719/annotated-SurveyMonkey.sql.pdf)
-⤷ [annotated-Roles.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184729/annotated-Roles.sql.pdf)
-⤷ [annotated-Privileges-1.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184730/annotated-Privileges-1.sql.pdf)
-⤷ [annotated-Authentication.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184731/annotated-Authentication.sql.pdf)
+⤷ [annotated-SurveyMonkey.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184719/annotated-SurveyMonkey.sql.pdf)</p>
+⤷ [annotated-Roles.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184729/annotated-Roles.sql.pdf)</p>
+⤷ [annotated-Privileges-1.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184730/annotated-Privileges-1.sql.pdf)</p>
+⤷ [annotated-Authentication.sql.pdf](https://github.com/TheBlack-code/Adric-Macharia/files/11184731/annotated-Authentication.sql.pdf)</p>
 
 <!-- END Projects -->
 
