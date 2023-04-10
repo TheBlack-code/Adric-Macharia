@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-- 🔭 I’m currently working on []</p>
+- 🔭 I’m currently working on [CompTIA Security Plus]</p>
 <p align="left"> 
 - 🌱 I’m currently self-learning</p>
 <p align="left"> 
