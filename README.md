@@ -13,7 +13,7 @@
 <p align="left"> 
 - 🔭 I’m currently working on [CompTIA Security Plus]</p>
 <p align="left"> 
-- 🌱 I’m currently self-learning</p>
+- 🌱 currently <have a bachelors degree/p>
 <p align="left"> 
 - 📫 How to reach me: mm.adric@outlook.com</p>
 
