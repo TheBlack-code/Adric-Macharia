@@ -13,7 +13,6 @@
 <p align="left"> 
 - 🔭 I’m currently working on [CompTIA Security Plus]</p>
 <p align="left"> 
-- 🌱 currently /p>
 <p align="left"> 
 - 📫 How to reach me: mm.adric@outlook.com</p>
 
