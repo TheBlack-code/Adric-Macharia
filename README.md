@@ -5,7 +5,7 @@
 <h3 align="center">Aiming for (IT Auditor/ SOC Analyst / Cyber-Analyst)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adric-macharia-5b7a48165/" target="_blank">
+  <a href="https://www.linkedin.com/in/adricmacharia" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adric Macharia's LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
