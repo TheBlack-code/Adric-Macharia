@@ -19,9 +19,7 @@
 ### 📜 Certifications
 <!-- BEGIN Certifications -->
 - Microsoft 365 Certified: Security Administrator Associate ✅
-- CompTIA Security Plus ⚠️
-- CompTIA Cybersecurity Analyst (CySA+) ⚠️
-- Certified Information Systems Auditor (CISA) ⚠️
+
 <!-- END Certifications -->
 
 ### 🧰 Languages and Tools
