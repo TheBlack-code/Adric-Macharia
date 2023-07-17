@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-- 🔭 I’m currently working on [CompTIA Security Plus]</p>
+
 <p align="left"> 
 <p align="left"> 
 - 📫 How to reach me: mm.adric@outlook.com</p>
