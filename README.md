@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/128648409/230751521-cb35e8bc-583e-4ec7-a1b6-1466e94c6705.jpg" height="400" width="500" alt="wallpaper-preview"></h1>
 <h1 align="center">Hi, I'm Adric Macharia</h1>
 <h3 align="center">Cyber-Security Graduate from Chestnut Hill College</h3>
-<h3 align="center">Aiming for (IT Auditor/ SOC Analyst / Cyber-Analyst)</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adricmacharia" target="_blank">
