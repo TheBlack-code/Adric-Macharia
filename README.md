@@ -19,7 +19,7 @@
 ### 📜 Certifications
 <!-- BEGIN Certifications -->
 - Microsoft 365 Certified: Security Administrator Associate ✅
-- CompTia: Network Plus --> Exam Due by (2025-Sep 20th) (currently Studying) <----
+- CompTia: Network Plus --> Exam Due by (2025-September 20th) (currently Studying) <----
 - Microsoft Certified: Cloud-Azure Fundamentals (AZ-900) --> Exam Due by (November 20th (Pending) <----
 - AZ-104 Microsoft Azure Administrator Certification (Pending next year 2027 Mid June) <----
 
