@@ -16,6 +16,33 @@
 <p align="left"> 
 - 📫 How to reach me: mm.adric@outlook.com</p>
 
+
+
+
+#
+
+### 📺 Latest Projects
+#
+<!-- BEGIN Projects -->
+# ServiceNow Ticket Triage Bot
+⤷ “I built a ServiceNow Ticket Triage Bot in Python that connects to the ServiceNow API and auto-classifies incoming incident tickets. It uses a JSON-based rules engine to assign priority and route tickets to the right team. I implemented this to simulate real-life helpdesk workflows, reduce SLA violations, and improve triage accuracy. I can walk you through the logic, the code, and even demo a ticket in real time.”</p>
+
+⤷ [Service Now Triage Bot.pdf](https://github.com/user-attachments/files/21676261/Service.Now.Triage.Bot.pdf)
+⤷ </p>
+
+# Senior Year Project
+⤷ [CyberSploit 1 - Report (1).zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184752/CyberSploit.1.-.Report.1.zip)
+⤷ </p>
+
+
+# SolarWinds Network Monitor Simulation
+⤷ [SolarWinds Network Monitor Simulation.pdf](https://github.com/user-attachments/files/21676265/SolarWinds.Network.Monitor.Simulation.pdf)
+⤷ </p>
+
+
+<br />
+
+
 ### 📜 Certifications
 <!-- BEGIN Certifications -->
 - Microsoft 365 Certified: Security Administrator Associate ✅
@@ -87,26 +114,6 @@
 
 <br />
 
-#
-
-### 📺 Latest Projects
-#
-<!-- BEGIN Projects -->
-# ServiceNow Ticket Triage Bot
-⤷ “I built a ServiceNow Ticket Triage Bot in Python that connects to the ServiceNow API and auto-classifies incoming incident tickets. It uses a JSON-based rules engine to assign priority and route tickets to the right team. I implemented this to simulate real-life helpdesk workflows, reduce SLA violations, and improve triage accuracy. I can walk you through the logic, the code, and even demo a ticket in real time.”</p>
-
-[Service Now Triage Bot.pdf](https://github.com/user-attachments/files/21676261/Service.Now.Triage.Bot.pdf)
-
-
-# Senior Year Project
-⤷ [CyberSploit 1 - Report (1).zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184752/CyberSploit.1.-.Report.1.zip)
-⤷ </p>
-
-
-# SolarWinds Network Monitor Simulation
-⤷ [SolarWinds Network Monitor Simulation.pdf](https://github.com/user-attachments/files/21676265/SolarWinds.Network.Monitor.Simulation.pdf)
-
-⤷ </p>
 
 
 
