@@ -94,10 +94,7 @@
 ⤷ </p>
 #
 ⤷ </p>
- [config.json](https://github.com/user-attachments/files/21675801/config.json)</p>
-[README.md](https://github.com/user-attachments/files/21675802/README.md)</p>
-[ticket_rules.json](https://github.com/user-attachments/files/21675804/ticket_rules.json)</p>
-[requirements.txt](https://github.com/user-attachments/files/21675803/requirements.txt)</p>
+
 
 
 
