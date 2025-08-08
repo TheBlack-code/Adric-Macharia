@@ -21,13 +21,16 @@
 - Microsoft 365 Certified: Security Administrator Associate ✅
 - CompTia: Network Plus --> Exam Due by (2025-Sep 20th) (currently Studying) <----
 - Microsoft Certified: Cloud-Azure Fundamentals (AZ-900) --> Exam Due by (November 20th (Pending) <----
-- AZ-104 Microsoft Azure Administrator Certification (needed by goverment of (DoD) ; (DHS) ;and (CMS)) (Pending next year 2026 Mid June) <----
+- AZ-104 Microsoft Azure Administrator Certification (Pending next year 2027 Mid June) <----
 
 <!-- END Certifications -->
 
-### 🧰 Languages and Tools
-<!-- BEGIN Languages and Tools -->
-
+### 🧰 Languages 
+<!-- BEGIN Languages  -->
+--> English (10/10)
+--> Swahili (6/10) 
+--> Japanese (0/10) Pending
+--> German-Deutsh (0/10) Pending
 
 ### 💻 Technical Skills
 
