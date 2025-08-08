@@ -92,10 +92,15 @@
 ### 📺 Latest Projects
 #
 <!-- BEGIN Projects -->
+#
+⤷ “I built a ServiceNow Ticket Triage Bot in Python that connects to the ServiceNow API and auto-classifies incoming incident tickets. It uses a JSON-based rules engine to assign priority and route tickets to the right team. I implemented this to simulate real-life helpdesk workflows, reduce SLA violations, and improve triage accuracy. I can walk you through the logic, the code, and even demo a ticket in real time.”</p>
+
+[python servicenow_ticket_bot.py.pdf](https://github.com/user-attachments/files/21676159/python.servicenow_ticket_bot.py.pdf)
+
+Scenario: ServiceNow Ticket Triage Bot for IT Helpdesk
+You're working as an IT Analyst at a healthcare provider where ServiceNow is used for IT service management. To reduce manual workload and improve resolution time, you propose and build a Python-based triage bot. This bot automatically reads incoming tickets, classifies them, assigns priority based on urgency and impact, and routes them to the correct support group.
+#
 ⤷ [CyberSploit 1 - Report (1).zip](https://github.com/TheBlack-code/Adric-Macharia/files/11184752/CyberSploit.1.-.Report.1.zip)
-#
-⤷ </p>
-#
 ⤷ </p>
 
 
