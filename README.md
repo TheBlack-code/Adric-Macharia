@@ -14,7 +14,7 @@
 
 <p align="left"> 
 <p align="left"> 
-- 📫 How to reach me: mm.adric@outlook.com</p>
+- 📫 How to reach me: Adricmacharia@gmail.com</p>
 
 
 
